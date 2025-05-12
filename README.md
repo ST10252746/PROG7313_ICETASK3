@@ -1,12 +1,11 @@
-<p align="center">
-  <img src="images/PixlyLogo.png" alt="Pixly Logo" width="200"/>
-</p>
+
+<img src="images/PixlyLogo.png" alt="Pixly Logo" width="200"/>
 
 # Pixly – A Social Media App
 
 Pixly is a modern, Firebase-powered social media application built with Kotlin in Android Studio. It allows users to share photo posts, engage with others, update profiles, and enjoy a smooth, aesthetic UI experience. This project follows a sprint-based agile development approach.
 
-> [![YouTube](https://img.shields.io/badge/Demo%20Video-Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DEMO VIDEO LINK)
+> [![YouTube](https://img.shields.io/badge/Demo%20Video-Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/0lapF4DQPKQ?si=0DuU_6hfdBR5Tc93)
 
 ---
 
@@ -82,9 +81,9 @@ Pixly is a modern, Firebase-powered social media application built with Kotlin i
 
 ## 👥 Authors
 
-- **@thesharanarain**
-- **@alyssiasookdeo**
-- **@cameronchetty**
+- **ST10252746 - Theshara Narain**
+- **ST10266994 - Alyssia Sookdeo**
+- **ST10251759 - Cameron Chetty**
 
 ---
 
@@ -94,11 +93,3 @@ Pixly is a modern, Firebase-powered social media application built with Kotlin i
 2. Add your `google-services.json` file to the `app/` directory.
 3. Sync Gradle and run on emulator or device.
 4. Create a Firebase project and enable Authentication + Firestore + Storage.
-
----
-
-## 🔒 License
-
-This project is for educational purposes and part of a mobile development sprint project.
-
-
