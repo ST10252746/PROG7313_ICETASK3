@@ -1,4 +1,8 @@
-# 📸 Pixly – A Social Media App
+<p align="center">
+  <img src="images/PixlyLogo.png" alt="Pixly Logo" width="200"/>
+</p>
+
+# Pixly – A Social Media App
 
 Pixly is a modern, Firebase-powered social media application built with Kotlin in Android Studio. It allows users to share photo posts, engage with others, update profiles, and enjoy a smooth, aesthetic UI experience. This project follows a sprint-based agile development approach.
 
@@ -14,12 +18,6 @@ Pixly is a modern, Firebase-powered social media application built with Kotlin i
 | Light Sea Green   | `#20B2AA`  |
 | Midnight Blue     | `#191970`  |
 | Medium Turquoise  | `#48D1CC`  |
-
----
-
-## 🖼️ App Logo
-
-![Pixly Logo](https://www.vecteezy.com/png/36520139-ai-generated-photo-camera-clipart-design-illustration)
 
 ---
 
