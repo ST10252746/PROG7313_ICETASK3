@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131047045074",
+    "project_id": "pixly-7b8e8",
+    "storage_bucket": "pixly-7b8e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131047045074:android:316e95dec0661793dc3a0b",
+        "android_client_info": {
+          "package_name": "vcmsa.fake.projects.pixly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131047045074-7h5jja0j0re3nlit351bjcdsvggvnqmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41dGtb7ktlHXKQT_Cc8s3tVqVEAqdreA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131047045074-7h5jja0j0re3nlit351bjcdsvggvnqmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
