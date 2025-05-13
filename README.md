@@ -1,11 +1,11 @@
-
+()
 <img src="images/PixlyLogo.png" alt="Pixly Logo" width="200"/>
 
 # Pixly – A Social Media App
 
 Pixly is a modern, Firebase-powered social media application built with Kotlin in Android Studio. It allows users to share photo posts, engage with others, update profiles, and enjoy a smooth, aesthetic UI experience. This project follows a sprint-based agile development approach.
 
-> [![YouTube](https://img.shields.io/badge/Demo%20Video-Watch%20on%20YouTube-red?logo=youtube&logoColor=white)]
+> [![YouTube](https://img.shields.io/badge/Demo%20Video-Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/Wzks6BYp9HU)
 
 ---
 
